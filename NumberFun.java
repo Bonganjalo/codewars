@@ -1,3 +1,5 @@
+/** Find the next perfect square! **/
+
 import java.util.*;
 
 public class NumberFun {
